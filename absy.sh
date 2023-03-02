@@ -1,1 +1,0 @@
-./absy-notifier-macos

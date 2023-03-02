@@ -1,1 +1,0 @@
-absy-notifier-win.exe
