@@ -1,0 +1,5 @@
+{
+    "clientId" : "3MVG9fe4g9fhX0E6kcopvWInnuAJqRuI0YSFVd7Bfv99TbhdxZxGLorL6QsWsQkKZ5Wai2uckrgbvXY1tAKLC",
+    "clientSecret" : "5C970A838B81D7E139D2B56AD874822FCEC855F8CAD8570ED18F223D7258EBE3",
+    "redirectUri" : "http://localhost:8080"
+}
